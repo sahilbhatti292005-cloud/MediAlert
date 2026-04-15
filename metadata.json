@@ -1,0 +1,5 @@
+{
+  "name": "MediAlert",
+  "description": "A clean and modern medicine reminder application that helps users manage their medications with timely notifications, tracking, and history.",
+  "requestFramePermissions": []
+}
